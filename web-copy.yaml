@@ -1,3 +1,13 @@
+colors: 
+  primary-red:
+    EA635C
+  text-black:
+    333333
+  text-grey: 
+    999999
+
+
+
 
 nav:
   buttons:
@@ -50,6 +60,6 @@ promo-2:
   cta: 
     Explore Features
 
-  
+
 
   
